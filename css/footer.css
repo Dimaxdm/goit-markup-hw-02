@@ -1,0 +1,10 @@
+/*--logo properties kept in commont.css file to follow a DRY principle --*/
+
+.footer-site {
+  background-color: #2e2f42;
+}
+
+.footer-text,
+.logo.logo-footer {
+    color: #f4f4fd;
+}
