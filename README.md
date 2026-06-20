@@ -13,6 +13,8 @@
 
 <img width="327" height="787" alt="image" src="https://github.com/user-attachments/assets/bcde2733-761b-4a3d-af90-6e6b0ca42f5b" />
 
+
+
 * [x] - The project root contains an `images` directory with all image assets.
 * [x] - The project root contains a `css` directory with all stylesheet files.
 * [x] - All styles are written in their corresponding CSS files inside the `css` directory and are properly connected.
