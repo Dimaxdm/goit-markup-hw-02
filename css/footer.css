@@ -1,10 +1,21 @@
-/*--logo properties kept in commont.css file to follow a DRY principle --*/
+.logo-footer {
+  font-family: 'Raleway', sans-serif;
+  color: #f4f4fd;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.33;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+}
+
+.logo-footer-accent {
+  color: #4d5ae5;
+}
 
 .footer-site {
   background-color: #2e2f42;
 }
 
-.footer-text,
-.logo.logo-footer {
-    color: #f4f4fd;
+.footer-text {
+  color: #f4f4fd;
 }
